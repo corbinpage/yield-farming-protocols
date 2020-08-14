@@ -28,6 +28,7 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 * [YieldFarming.info](https://yieldfarming.info/) for information and access on many different pools
 * [DeFi Rate](https://defirate.com/earn/) for a great overview of different opportunities
 * [CoinGecko DeFi Coins](https://www.coingecko.com/en/defi) for a list of the top DeFi coins to farm
+* [DeFi Data Tutorial](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg) - Video walkthroughs of using the most popular protocols
 
 ## 📝 Contributing
 Pull requests are welcomed and encouraged. Please aim for honesty and objectivity, so the DeFi community has reliable information they can depend on. Spammy and shilly activities won't be tolerated or merged.
